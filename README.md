@@ -1,4 +1,5 @@
-# iNeuron-Financial-Analytics-Project
+# Financial-Analytics-iNeuron-Internship-Project
+
 by- SAMEER BHALLA
 
 Project Title: Financial Analytics
